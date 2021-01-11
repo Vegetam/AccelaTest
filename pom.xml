@@ -11,7 +11,7 @@
 	<groupId>com.fm.accela</groupId>
 	<artifactId>com.fm.accela</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>AccelaTest</name>
 	<description>Application Accela test</description>
 
 	<properties>
