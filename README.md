@@ -9,6 +9,7 @@ Java 11
 
 Junit create few Junit testing
 
+H2 setted as in-memory Database (so the data won't be persistent)
 
 #### Steps
 
