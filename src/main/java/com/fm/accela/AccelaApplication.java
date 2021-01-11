@@ -127,7 +127,7 @@ public class AccelaApplication {
                     break;
                 case "0":
                     //exit from the program
-                    System.out.println("Thanks for using our Accela Console Application!");
+                    System.out.println("Thank you for using the Accela Application!");
                     System.out.println("Now exiting...!");
 
                     System.exit(0);
