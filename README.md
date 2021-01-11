@@ -1,5 +1,21 @@
 # AccelaTest
- Accela Test 
+
+Create a simple command line JAVA application with database access;
+
+Based on an input from the command line provide the following functionality;
+
+Provide help
+1. Add Person (id, firstName, surname)
+2. Edit Person (firstName, surname)
+3. Delete Person (id)
+4. Count Number of Persons
+5. List Persons
+
+Additional Requirements, nice to have
+1. Ability to Add Person from XML / JSON
+2. Test coverage
+3. Maven or Gradle Build
+4. Executable Jar
 
 # Technology Stack
 
