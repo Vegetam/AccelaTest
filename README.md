@@ -13,8 +13,8 @@ Junit create few Junit testing
 #### Steps
 
 ##### Clone source code from git
-```
-$  git clone https://github.com/Vegetam/AccelaTest  .
+
+$  git clone https://github.com/Vegetam/AccelaTest 
 
 ### Run as Java Application
 
