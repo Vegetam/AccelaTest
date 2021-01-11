@@ -21,6 +21,8 @@ Additional Requirements, nice to have
 
 Spring Boot 
 
+Maven
+
 Java 11
 
 Junit create few Junit testing
